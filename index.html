@@ -1,0 +1,71 @@
+<html>
+
+  <head>
+      <link rel="stylesheet" type="text/css" href="interface.css" />
+      <link rel="stylesheet" type="text/css" href="css/epoch.min.css">
+  </head>
+
+  <body>
+
+      <div class="header">
+          <h3>Welcome to Cows</h3>
+      </div>
+
+      <div class="row">
+
+          <div class="column">
+
+               <div id="info" class="blocks">
+                   <div>Money: $<span id="money"></span></div>
+                   <div>Milk: <span id="milk"></span> gallons</div>
+               </div>
+
+               <div id="graphDemand" class="blocks">
+
+               </div>
+
+               <div id="marketing" class="blocks">
+
+               </div>
+
+          </div>
+
+          <div class="column">
+
+              <div id="dairyFarm" class="blocks">
+                  <b>Dairy Cows</b>
+                  <div>Number: <span id="dairyNumber"></span>/<span id="cowSpace"></span></div>
+                  <div>Breed: <span id="dairyBreed"></span></div>
+                  <div>Price: $<span id="dairyPrice"></span></div>
+                  <div>Milk Given: <span id="dairyRate"></span></div>
+                  <div class="button buttonTwo" onclick="buyDairy()">Buy Dairy Cow</div>
+                  <div class="button buttonOne" onclick="milkCows()">Milk</div>
+              </div>
+
+          </div>
+
+          <div class="column">
+
+
+
+          </div>
+
+          <div class="column">
+
+
+
+          </div>
+
+      </div>
+
+      <script type="text/javascript" src="main.js"></script>
+      <script src="js/d3.min.js"></script>
+      <script src="js/epoch.min.js"></script>
+
+  </body>
+
+</html>
+
+
+
+

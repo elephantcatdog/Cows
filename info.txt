@@ -1,0 +1,54 @@
+Things To Do:
+    put it on a real website
+    save and load feature
+    add market graph
+
+Stage 1
+    buy dairy cows
+    milk dairy cows
+
+    Upgrades:
+        buy milking barn
+        buy fields
+        buy breeding barn
+        buy bulls
+        expand operations: meat cows
+        marketing facility
+        research facility
+
+    Breeds:
+        Holstein
+            10,756
+            9.8
+            $3,000
+        Brown Swiss
+            8,794
+            8.0
+            $2,400
+        Ayrshire
+            8,077
+            7.4
+            $1,900
+        Guernsey
+            7,389
+            6.7
+            $1,500
+        Jersey
+            7,073
+            6.5
+            $1,200
+        Milking Shorthorn
+            7,008
+            6.4
+            $1,000
+
+Stage 2
+
+
+
+
+
+Stage 3
+
+
+
